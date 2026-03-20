@@ -1,4 +1,4 @@
-# ContactsCMPApp 📱
+# ContactsComposeMultiplatformApp 📱
 
 A professional cross-platform contact management application built using **Compose Multiplatform (CMP)** and **Kotlin Multiplatform (KMM)**. This project demonstrates a unified codebase for both Android and iOS, implementing a scalable MVI architecture and native integrations.
 
